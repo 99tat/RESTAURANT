@@ -1,5 +1,1 @@
-[{"id":"1","name":"Hola","filename":"file1.pdf"},
-{"id":"2","name":"Tatiana","filename":"Testing.pdf"},
-{"id":"3","name":"Stiven","filename":"sample.pdf"},
-{"id":"4","name":"Javier","filename":"sample.pdf"},
-{"id":"5","name":"Marisol","filename":"sample.pdf"}]
+[{"id":"1","name":"File 1","filename":"file1.pdf"},{"id":"2","name":"Test","filename":"Testing.pdf"},{"id":"3","name":"sample.pdf","filename":"sample.pdf"},{"id":"4","name":"sample.pdf","filename":"sample.pdf"},{"id":"5","name":"Sample","filename":"sample.pdf"}]
